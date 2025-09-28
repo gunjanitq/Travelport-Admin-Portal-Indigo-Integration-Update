@@ -45,7 +45,8 @@ Copy code
 - Indigo integration will be updated successfully.  
 - Indigo flights will now display in the **UAPI LowFareSearch response**.
 
-- ===============================================================================================================================================================
+
+
 
 - # GWS Sign-On Creation Procedure
 
