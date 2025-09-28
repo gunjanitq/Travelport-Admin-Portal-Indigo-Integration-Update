@@ -48,7 +48,9 @@ Copy code
 
 
 
-- # GWS Sign-On Creation Procedure
+- ---
+
+## ✅# GWS Sign-On Creation Procedure
 
 This guide explains how to create a GWS sign-on for agents, including multi-terminal access and alternate paths.
 
